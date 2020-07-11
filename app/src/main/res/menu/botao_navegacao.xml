@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_incluir"
+        android:icon="@drawable/ic_incluir"
+        android:title="@string/incluir"/>
+    <item
+        android:id="@+id/nav_pesquisar"
+        android:icon="@drawable/ic_pesquisar"
+        android:title="@string/pesquisar"/>
+    <item
+        android:id="@+id/nav_pesquisar_todos"
+        android:icon="@drawable/ic_pesquisar_todos"
+        android:title="@string/pesquisarTodos"/>
+    <item
+        android:id="@+id/nav_atualizar"
+        android:icon="@drawable/ic_atualizar"
+        android:title="@string/atualizar"/>
+    <item
+        android:id="@+id/nav_excluir"
+        android:icon="@drawable/ic_incluir"
+        android:title="@string/excluir"/>
+</menu>

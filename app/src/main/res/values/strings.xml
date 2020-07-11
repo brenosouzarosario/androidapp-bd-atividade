@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lista de Atividades</string>
+    <string name="codigo">Código da Atividade</string>
+    <string name="nomeAtividade">Nome da Atividade</string>
+    <string name="responsavel">Responsável</string>
+    <string name="prioridade">Prioridade</string>
+    <string name="pesquisar">Pesquisar</string>
+    <string name="pesquisarTodos">Todos</string>
+    <string name="excluirTodos">Excluir Todos</string>
+    <string name="incluir">Inserir</string>
+    <string name="atualizar">Atualizar</string>
+    <string name="excluir">Excluir</string>
+</resources>
